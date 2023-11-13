@@ -1,0 +1,4 @@
+﻿  ParcialFundamentos2.cpp
+C:\Users\drago\OneDrive\Escritorio\ParcialFundamentos2\ParcialFundamentos2\ParcialFundamentos2.cpp(126,28): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\drago\OneDrive\Escritorio\ParcialFundamentos2\ParcialFundamentos2\ParcialFundamentos2.cpp(127,28): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ParcialFundamentos2.vcxproj -> C:\Users\drago\OneDrive\Escritorio\ParcialFundamentos2\x64\Debug\ParcialFundamentos2.exe
